@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; SQL | Python 
+- 💻 &nbsp; SQL | Python | Tableau
 - 🌐 &nbsp; Git | Github  
 - 🛢 &nbsp; Pandas | Matplotlib | Numpy
 - 🔧 &nbsp; Unix Shell
