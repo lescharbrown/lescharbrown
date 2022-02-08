@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a Data Analyst
+- 🔭 &nbsp; I’m a Data Analyst & Data Science Enthusiast
 - 🤔 &nbsp; Excited in contributing analytical skills in data collection, storage, and processing infrastructure
 - 💼 &nbsp; Competent in SQL Database Query, Machine Learning, Data Visualization and Exploratory Data Analysis
 - 🌱 &nbsp; Enthusiast in Data Engineering.
